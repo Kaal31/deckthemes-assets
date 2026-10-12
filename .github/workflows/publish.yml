@@ -1,0 +1,48 @@
+# Publishes the theme packs in publish/packs as versioned releases (<id>-v<version>, one ZIP each, never replaced)
+# and uploads publish/theme-catalog.json to the beta-catalog release the plugin reads.
+# The packs and catalogue are built by tools/package_themes.py in the plugin repository.
+name: Publish theme packs
+on:
+  push:
+    branches: [main]
+    paths: ['publish/**', '.github/workflows/publish.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: publish-packs
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish packs and catalogue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          python3 - <<'PY' > plan.txt
+          import json, hashlib, os
+          c = json.load(open('publish/theme-catalog.json'))
+          for p in c['themes']:
+              tag, name = p['url'].split('/releases/download/')[1].split('/')
+              path = 'publish/packs/' + name
+              assert os.path.isfile(path), path
+              data = open(path, 'rb').read()
+              assert hashlib.sha256(data).hexdigest() == p['sha256'] and len(data) == p['size'], name
+              print(tag, path, p['name'].replace(' ', '_'))
+          PY
+          while read -r tag path label; do
+            if ! gh release view "$tag" >/dev/null 2>&1; then
+              gh release create "$tag" --title "${label//_/ } assets ${tag##*-v}" --notes "Theme assets for ThemeHub." --prerelease
+            fi
+            if gh release view "$tag" --json assets -q '.assets[].name' | grep -qx "$(basename "$path")"; then
+              echo "kept $tag"
+            else
+              gh release upload "$tag" "$path"
+              echo "uploaded $tag"
+            fi
+          done < plan.txt
+          gh release view beta-catalog >/dev/null 2>&1 || gh release create beta-catalog --title "Beta theme catalogue" --notes "Catalogue read by ThemeHub." --prerelease
+          gh release upload beta-catalog publish/theme-catalog.json --clobber
