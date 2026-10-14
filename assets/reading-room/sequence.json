@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "loop": true,
+  "wallpapers": [
+    {
+      "order": 1,
+      "tag": "Day",
+      "clip": 9,
+      "file": "wallpapers/01-Day.mp4",
+      "sha256": "a6b16c9cf23acc291780dadc0a5bc42f60a27fee22b1160ba38a43f4cabb16ad",
+      "size": 2145167
+    },
+    {
+      "order": 2,
+      "tag": "Day",
+      "clip": 10,
+      "file": "wallpapers/02-Day.mp4",
+      "sha256": "79eea6362945d898f544233164c206a76ebb69fe897ab5e48ecb6ea0c455e568",
+      "size": 4695558
+    },
+    {
+      "order": 3,
+      "tag": "Day",
+      "clip": 7,
+      "file": "wallpapers/03-Day.mp4",
+      "sha256": "549104b38de245cd8338a18d5140a17d52b9767c95858f6ec319a5a47e01b851",
+      "size": 3411898
+    },
+    {
+      "order": 4,
+      "tag": "Day",
+      "clip": 8,
+      "file": "wallpapers/04-Day.mp4",
+      "sha256": "0633ba373315c6850d1d5b43ae2f624ba9d0d3968f8d9cd0de3a7ad3b9a8e4b1",
+      "size": 4180799
+    },
+    {
+      "order": 5,
+      "tag": "Day",
+      "clip": 5,
+      "file": "wallpapers/05-Day.mp4",
+      "sha256": "fcc6b3a597b667d1098a2137b5f06335215cf0061152c1233478df4dfe818061",
+      "size": 3361488
+    },
+    {
+      "order": 6,
+      "tag": "Day",
+      "clip": 6,
+      "file": "wallpapers/06-Day.mp4",
+      "sha256": "cbf83cddd7269a432d8bea70e4221566a17f7a33fc34c6fe5ba0ff2bf681036e",
+      "size": 1512454
+    },
+    {
+      "order": 7,
+      "tag": "Day",
+      "clip": 4,
+      "file": "wallpapers/07-Day.mp4",
+      "sha256": "549104b38de245cd8338a18d5140a17d52b9767c95858f6ec319a5a47e01b851",
+      "size": 3411898
+    },
+    {
+      "order": 8,
+      "tag": "Transition-D-N",
+      "clip": 11,
+      "file": "wallpapers/08-Transition-D-N.mp4",
+      "sha256": "e971992fe3c466416568b31277adfe906eec259b75b25806089702192737912b",
+      "size": 4612279
+    },
+    {
+      "order": 9,
+      "tag": "Night",
+      "clip": 2,
+      "file": "wallpapers/09-Night.mp4",
+      "sha256": "9843aa31b999ed418df28355cf53df66b07a64586f203fead2230fb7e482795a",
+      "size": 3321118
+    },
+    {
+      "order": 10,
+      "tag": "Night",
+      "clip": 3,
+      "file": "wallpapers/10-Night.mp4",
+      "sha256": "4dfeab3e7ceeb62f6cbbf3c38d653bc191437854942d1c3cb93f0b88d0d21491",
+      "size": 3568047
+    },
+    {
+      "order": 11,
+      "tag": "Transition-N-M",
+      "clip": 12,
+      "file": "wallpapers/11-Transition-N-M.mp4",
+      "sha256": "e79da3fa6cf55f4b8391d6253da6503ae5b096214edec377c0c18b8419db6457",
+      "size": 5494597
+    },
+    {
+      "order": 12,
+      "tag": "Morning",
+      "clip": 1,
+      "file": "wallpapers/12-Morning.mp4",
+      "sha256": "4026dba77b0c42c6f0c90557f386ada939fd8850f82c8ab3a2bf42ade5d9e5e3",
+      "size": 4943743
+    }
+  ]
+}
