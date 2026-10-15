@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "id": "blue-glass",
+  "name": "Blue Glass",
+  "version": "1.0.0",
+  "tag": "blue-glass-v1.0.0",
+  "source": {
+    "repo": "Kaal31/benderthemes",
+    "branch": "experimental",
+    "commit": "8f407446b0f2d225b72f1c7211c8533ecb7e8753"
+  },
+  "files": [
+    {
+      "name": "BlueGlass-theme-v1.0.0.zip",
+      "size": 765199,
+      "sha256": "b07305d0d2ae37cabc923ae140e62a68a8c6435068c329b26ba49f7521e49965"
+    },
+    {
+      "name": "showcase.gif",
+      "size": 1166954,
+      "sha256": "7bb85497f862138c82de4ddbf58fdbd529b5359233bb9085aa84e35390a761e9"
+    },
+    {
+      "name": "poster.png",
+      "size": 1464620,
+      "sha256": "c5054636e1d0b6f504adbf3d85bb63ad016c14532407d1c6a47b6ec4ca204600"
+    }
+  ]
+}
