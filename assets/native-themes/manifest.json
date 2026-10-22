@@ -1,0 +1,97 @@
+{
+  "blue-glass": {
+    "version": "1.0.0",
+    "url": "https://github.com/Kaal31/deckthemes-assets/releases/download/blue-glass-v1.0.0/ThemeAssets-blue-glass-v1.0.0.zip",
+    "sha256": "c416cac6fcede29282ec34786070f7dc7944f709691370487d3b8b2dc3812a96",
+    "files": {
+      "test-video.mp4": "37433ab8fcddad497a1b6acbfe941bfc6147b544c66aeba1fa706c2409224109"
+    }
+  },
+  "gamecube": {
+    "version": "1.0.0",
+    "url": "https://github.com/Kaal31/deckthemes-assets/releases/download/gamecube-v1.0.0/ThemeAssets-gamecube-v1.0.0.zip",
+    "sha256": "209af10d2720e521b098b4705dbeb4c70fe69ab03f1e39926283155d214c6280",
+    "files": {
+      "assets/generated-glass-v2.png": "51ed15eea4c370d20da57036bd2e381e6a991e6699a30ee5f1571013babb82ba",
+      "assets/generated-glass.png": "75b28da1523fef570fc21b28658b61d5d19c6db702f802a0e1459f5a5692623c"
+    }
+  },
+  "ios6": {
+    "version": "1.0.0",
+    "url": "https://github.com/Kaal31/deckthemes-assets/releases/download/ios6-v1.0.0/ThemeAssets-ios6-v1.0.0.zip",
+    "sha256": "3a62999caf5688d420b8cbe739b02e7bd53d90cf637739878743f085118df28a",
+    "files": {
+      "test-video.mp4": "37433ab8fcddad497a1b6acbfe941bfc6147b544c66aeba1fa706c2409224109",
+      "wallpaper.jpg": "0cac3a314689d690b8b71bb45299e6586b185433d653fa36727dec0596129205"
+    }
+  },
+  "old-big-picture": {
+    "version": "1.0.1",
+    "url": "https://github.com/Kaal31/deckthemes-assets/releases/download/old-big-picture-v1.0.1/ThemeAssets-old-big-picture-v1.0.1.zip",
+    "sha256": "182b599c98ec2019b14efd49505bbf0755ef54219e5065ad6a6ca316bb74fcdc",
+    "files": {
+      "assets/downloads.png": "4abb7051003a502a1b470470715f2c64a950a6b77558fdd6da5c60696e821eba",
+      "assets/exit.png": "405d8efb452187288fd866e83fd5d3801f69e2f9a2edf97e32df767314a03aa7",
+      "assets/generic_800.png": "08d2412ea6ee491ab49bd7eaa1373dd8bf6cc55fa5dafce63e6f844fc2e6d69d",
+      "assets/homeglow.png": "aadb56fcb1d6733eeae110392ad9f1b35ae6ac44630b12195af1b69240d4238c",
+      "assets/icon_cart.png": "5910a304430f177c80aa45bf30257ebddcd9a337185a7a2c9be1e08277919cfc",
+      "assets/icon_community_hub.png": "4f8a30ad06d1b90d609926c030f83d0cd05d6bef1162907df70ad2ba4440e111",
+      "assets/mainmenu_bg_2.png": "c2d59d83d619f851241bdf3c66651fe9b3f3cfcea95deaa45ca0d9b8a665a07f",
+      "assets/settings.png": "47d863429a84171be554e5f35f800976d04e757d6dbe6e6335a425a408af8837",
+      "assets/steam_home.png": "7d18c5a24dde8ac90530a185b31ac99ee58f98638eba0bca1a895c0a73c4496a",
+      "sounds/activation.wav": "da7dade98769363b20c1ae6ef70e2c2621dbeed940b65be52445381591cc5fa3",
+      "sounds/focus_change.wav": "4b3a85808fb9b7ba38222aaf731164d363e26aa397d640ff691e099c8bb53409",
+      "sounds/txting_press_b.wav": "7195a602f591e4d4369eabbf6a75b4d885dc796fdd3a56234d720dea62c26a6e",
+      "sounds/Old Big Picture UI/deck_ui_default_activation.wav": "da7dade98769363b20c1ae6ef70e2c2621dbeed940b65be52445381591cc5fa3",
+      "sounds/Old Big Picture UI/deck_ui_hide_modal.wav": "7195a602f591e4d4369eabbf6a75b4d885dc796fdd3a56234d720dea62c26a6e",
+      "sounds/Old Big Picture UI/deck_ui_into_game_detail.wav": "da7dade98769363b20c1ae6ef70e2c2621dbeed940b65be52445381591cc5fa3",
+      "sounds/Old Big Picture UI/deck_ui_launch_game.wav": "da7dade98769363b20c1ae6ef70e2c2621dbeed940b65be52445381591cc5fa3",
+      "sounds/Old Big Picture UI/deck_ui_navigation.wav": "4b3a85808fb9b7ba38222aaf731164d363e26aa397d640ff691e099c8bb53409",
+      "sounds/Old Big Picture UI/deck_ui_out_of_game_detail.wav": "7195a602f591e4d4369eabbf6a75b4d885dc796fdd3a56234d720dea62c26a6e",
+      "sounds/Old Big Picture UI/deck_ui_tab_transition_01.wav": "4b3a85808fb9b7ba38222aaf731164d363e26aa397d640ff691e099c8bb53409",
+      "sounds/Old Big Picture UI/deck_ui_tile_scroll.wav": "4b3a85808fb9b7ba38222aaf731164d363e26aa397d640ff691e099c8bb53409",
+      "sounds/Old Big Picture UI/pack.json": "228dc56a60371fe7c35b07ba2ac71751c36f19ba153e8eb0f1acb772c64515bf"
+    }
+  },
+  "santa-express": {
+    "version": "1.0.0",
+    "url": "https://github.com/Kaal31/deckthemes-assets/releases/download/santa-express-v1.0.0/ThemeAssets-santa-express-v1.0.0.zip",
+    "sha256": "8cca065bfce7a995278be105019559605bf7b60eef7515f3c5aa2074124e1f05",
+    "files": {
+      "background.png": "388584919e4e8fc3375a5d67af9d50e2f0e951e461f46e1dd18c426ef8d00b65",
+      "button-glass.png": "eb8ffc6e2416097c63a7c4944485533831e5218904de27d78a47c6f2f1bc7f46",
+      "button-home.png": "415c6afd1440ef37df1b54b7ce32160a168bb7172fd25e9eccd385f3722e0f1a",
+      "cola-metal.png": "5c277734e27596dba6171f9c1f3434ad04d02551cba03d2ce7e58d2680ce2f5c",
+      "cola-panel-v2.png": "0e5037e78c04e00691880fd6bd93a09ffce16a9b3a81729a6b758879db979500",
+      "cola-panel.png": "9cb81660e73f94353ef62ca1ea0596dae72745d3cbb9e3f7ace84e0bac2e29b9",
+      "holiday-music.mp3": "113346f702296d66335917c4271b9507dea1bb16050796d87841316419dae161",
+      "lever-housing.png": "0ec837797bf99e63d7abe0f6243dd14cb54961b688276aeeac26443f5284d668",
+      "lever-knob.png": "6582ec2b0c96fb8b68fb337ddd1fa562635f3fd7a7125fd13052138f80517643"
+    }
+  },
+  "wiiflow-default": {
+    "version": "1.0.0",
+    "url": "https://github.com/Kaal31/deckthemes-assets/releases/download/wiiflow-default-v1.0.0/ThemeAssets-wiiflow-default-v1.0.0.zip",
+    "sha256": "8437966b4ed66f6f45d744333cf833bf4fb691d485b182db7b5f8a3b802ec609",
+    "files": {
+      "assets/background.png": "519ad712dd370ce851c57e433121492e95a516f75ec1ebc8e6790c0e64f6a92d",
+      "assets/btnconfig.png": "e33eabf7e372858c636f9188aad9d8eed0d387d85d80d374774caa42e5339d38",
+      "assets/btnconfigs.png": "8b100233e63f0ca71b95d39929a2c45b6b5e0d60fc6293d4df50fe57effb37c0",
+      "assets/btndvd.png": "7c99e35420df15d3aea2febbd33f14a5f0588f1a52456d470efdec7326d8ecb8",
+      "assets/btndvds.png": "a1609d48036d25b7d360ec58fe290b9b5987e083152d865b9ae1c67746350573",
+      "assets/EXO2MED.TTF": "f6017b1c93719808c0a9aec67f762a268dcb89bcfb0f3f6e6966a31d5b370596",
+      "assets/favoritesoff.png": "92b2a3c8128f92d2923be947c0489feaccc32e799c49bb75b0ba4e08347866eb",
+      "assets/favoritesoffs.png": "b98089d3a01d7ad27e43f6a98f5d4420c6c76065bc660163cd1fedbcbada9fa1",
+      "assets/font.ttf": "aa3b0ef53db12e3d45094030cac0e69d384e44cc5978643dd4390041cad546e2",
+      "assets/vapors.png": "426381f26467ba2f5e1dcbc15b034237e2d282d0ddbc87158434d55544cfc430"
+    }
+  },
+  "gameamp": {
+    "version": "1.0.0",
+    "url": "https://github.com/Kaal31/deckthemes-assets/releases/download/gameamp-v1.0.0/ThemeAssets-gameamp-v1.0.0.zip",
+    "sha256": "0205331f2e0ddeaf105494654864346172789f68c53a5d6c8534bbd9ddda685c",
+    "files": {
+      "assets/theme-defaults/gameamp.json": "7c84048a468ab38d79643f0cc22fe93dcb14d538c07cafe0db45f25f039f45ff"
+    }
+  }
+}
