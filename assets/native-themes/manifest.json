@@ -26,9 +26,9 @@
     }
   },
   "old-big-picture": {
-    "version": "1.0.1",
-    "url": "https://github.com/Kaal31/deckthemes-assets/releases/download/old-big-picture-v1.0.1/ThemeAssets-old-big-picture-v1.0.1.zip",
-    "sha256": "182b599c98ec2019b14efd49505bbf0755ef54219e5065ad6a6ca316bb74fcdc",
+    "version": "1.0.2",
+    "url": "https://github.com/Kaal31/deckthemes-assets/releases/download/old-big-picture-v1.0.2/ThemeAssets-old-big-picture-v1.0.2.zip",
+    "sha256": "54fe42c6d121340ca6a8129df13efb8be8ef37efe3280f274b565aed78dee26f",
     "files": {
       "assets/downloads.png": "4abb7051003a502a1b470470715f2c64a950a6b77558fdd6da5c60696e821eba",
       "assets/exit.png": "405d8efb452187288fd866e83fd5d3801f69e2f9a2edf97e32df767314a03aa7",
@@ -50,7 +50,9 @@
       "sounds/Old Big Picture UI/deck_ui_out_of_game_detail.wav": "7195a602f591e4d4369eabbf6a75b4d885dc796fdd3a56234d720dea62c26a6e",
       "sounds/Old Big Picture UI/deck_ui_tab_transition_01.wav": "4b3a85808fb9b7ba38222aaf731164d363e26aa397d640ff691e099c8bb53409",
       "sounds/Old Big Picture UI/deck_ui_tile_scroll.wav": "4b3a85808fb9b7ba38222aaf731164d363e26aa397d640ff691e099c8bb53409",
-      "sounds/Old Big Picture UI/pack.json": "228dc56a60371fe7c35b07ba2ac71751c36f19ba153e8eb0f1acb772c64515bf"
+      "sounds/Old Big Picture UI/pack.json": "228dc56a60371fe7c35b07ba2ac71751c36f19ba153e8eb0f1acb772c64515bf",
+      "intro.mp4": "a81aca7d42d71eaddf18f081432c3731f1bef6153c95266846166f0ab711f3e6",
+      "intro-source.json": "ae9ee4344b4b2782f441854719c622b6b2cdc496dca760a8dc4e1d45e5ebb226"
     }
   },
   "santa-express": {
