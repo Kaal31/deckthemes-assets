@@ -54,11 +54,11 @@
     }
   },
   "santa-express": {
-    "version": "1.0.0",
-    "url": "https://github.com/Kaal31/deckthemes-assets/releases/download/santa-express-v1.0.0/ThemeAssets-santa-express-v1.0.0.zip",
-    "sha256": "8cca065bfce7a995278be105019559605bf7b60eef7515f3c5aa2074124e1f05",
+    "version": "1.0.1",
+    "url": "https://github.com/Kaal31/deckthemes-assets/releases/download/santa-express-v1.0.1/ThemeAssets-santa-express-v1.0.1.zip",
+    "sha256": "da726ab9425555f00ef53ad01603c785bf94777004e2ccb71d0bf545d7cde58c",
     "files": {
-      "background.png": "388584919e4e8fc3375a5d67af9d50e2f0e951e461f46e1dd18c426ef8d00b65",
+      "background.png": "10af3de7940a1c93cbbeb5dee1ae9ddd52dade386fd3c27b17d59ad7bad30f5d",
       "button-glass.png": "eb8ffc6e2416097c63a7c4944485533831e5218904de27d78a47c6f2f1bc7f46",
       "button-home.png": "415c6afd1440ef37df1b54b7ce32160a168bb7172fd25e9eccd385f3722e0f1a",
       "cola-metal.png": "5c277734e27596dba6171f9c1f3434ad04d02551cba03d2ce7e58d2680ce2f5c",
