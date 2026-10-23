@@ -95,5 +95,31 @@
     "files": {
       "assets/theme-defaults/gameamp.json": "7c84048a468ab38d79643f0cc22fe93dcb14d538c07cafe0db45f25f039f45ff"
     }
+  },
+  "castle": {
+    "version": "1.0.3",
+    "url": "https://github.com/Kaal31/deckthemes-assets/releases/download/castle-v1.0.3/ThemeAssets-Floating-Castle-v1.0.3.zip",
+    "sha256": "cd5b72558207fe3bc421fd2a2ef39f9aea269fb4978304e8b6f940e8ff0026e9",
+    "files": {
+      "cinematic/castle.webm": "642ef22ad26f5fd4aa6667202b895ab4a9960e69d34dd38cf9dccd4f14279f4e"
+    }
+  },
+  "republic": {
+    "version": "1.0.3",
+    "url": "https://github.com/Kaal31/deckthemes-assets/releases/download/republic-v1.0.3/ThemeAssets-Republic-Office-v1.0.3.zip",
+    "sha256": "15d1747a41a9a6a8444eb5ed0eea0dbb3edee037fdb9800c394761a1f2d6b63b",
+    "files": {
+      "cinematic/republic.webm": "79888fa3681b5d7c84f69abb5b84bac99e47c80b3960668fde8fdd8e010d19d9"
+    }
+  },
+  "nazarick": {
+    "version": "1.0.4",
+    "url": "https://github.com/Kaal31/deckthemes-assets/releases/download/nazarick-v1.0.4/ThemeAssets-Nazarick-v1.0.4.zip",
+    "sha256": "80f655851347a5a30cce50642876b9bd88b1d39f06b2765957bb4b925ec0a3c9",
+    "files": {
+      "assets/nazarick/downloads-video.webm": "caf6e769dce71c30eac5429ac4a8525e042e3461e4c6799b270bd5f3fd515132",
+      "assets/nazarick/home-video.webm": "8693deca652f1384e9c4933b1ab4ad07e57a49a3f39aaf66759cc2d52053cb55",
+      "assets/nazarick/store-video.webm": "dc6119d4546622b48ef41b4a9f27070547f8f2d9a4d56fc9a26c539603f4f11d"
+    }
   }
 }
